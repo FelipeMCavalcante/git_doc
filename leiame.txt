@@ -4,4 +4,5 @@ git init
 Adiciona o arquivo/alteração na estage area 
 git add <arquivo>
 
-Adicionando comentario do conteudo
+Adicionando comentario do conteudo estage area
+git commit -m "SEU_TEXTO"
