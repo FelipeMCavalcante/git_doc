@@ -12,3 +12,6 @@ git status
 
 mostra o históric da "branch"
 git log
+
+ele cria uma nova "branch"
+git checkout -b <nome_branch>
