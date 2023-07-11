@@ -1,0 +1,7 @@
+Inicia o controle de Versionamento
+git init
+
+Adiciona o arquivo/alteração na estage area 
+git add <arquivo>
+
+Adicionando comentario do conteudo
